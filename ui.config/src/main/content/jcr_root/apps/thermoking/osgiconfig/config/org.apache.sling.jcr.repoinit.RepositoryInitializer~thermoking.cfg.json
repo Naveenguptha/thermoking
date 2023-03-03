@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/thermoking",
+        "create path (nt:unstructured) /content/dam/thermoking/jcr:content",
+        "set properties on /content/dam/thermoking/jcr:content\n  set cq:conf{String} to /conf/thermoking\n  set jcr:title{String} to \"Thermoking\"\nend"
+    ]
+}
