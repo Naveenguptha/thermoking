@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/thermoking/clientlibs"/>
+    <filter root="/apps/thermoking/components"/>
+    <filter root="/apps/thermoking/i18n"/>
+</workspaceFilter>
